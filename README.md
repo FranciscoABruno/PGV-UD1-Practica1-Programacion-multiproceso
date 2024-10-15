@@ -4,4 +4,4 @@ A continuacion podra entrar a la documentacion de nuestro projecto, tendra la op
 
 - [Necesidad del projecto! ](/docs/PROJECT_MEED.md)
 
--[Como funciona la aplicacion?](/docs/HOW_THIS_WORK.md)
+- [Como funciona la aplicacion?](/docs/HOW_THIS_WORK.md)
