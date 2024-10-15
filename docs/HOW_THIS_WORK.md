@@ -21,8 +21,11 @@ El proyecto permite al usuario ingresar una palabra y la ruta de un archivo. Uti
 *No hubo suerte*
 
 **Otra palabra ingresada(Amor)**
+
+
 ![alt text](/docs/imgs/bingont.png) 
 ##### El processOutput nos lo notificara!
+
 
 >[!TIP]
 >aqui acabo el como usar el progama! Puedes volver al [README](/README.md)
